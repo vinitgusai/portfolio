@@ -57,7 +57,7 @@ This portfolio highlights **real production work**, not just UI projects.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/vinitgusai/portfolio.git
 cd portfolio
 ```
 
