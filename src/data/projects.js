@@ -1,0 +1,58 @@
+const projects = [
+  {
+    slug: "cardboard-core",
+    title: "Cardboard Core",
+    description: "Full Shopify architecture with custom app integrations.",
+    link: "https://cardboardcore.com/",
+    problem: ["Limited flexibility", "Scalability issues"],
+    solution: ["Theme 2.0 system", "Custom app integration"],
+    impact: ["Better scalability", "Improved workflow"],
+  },
+  {
+    slug: "beast-branding",
+    title: "Beast Branding",
+    description: "Wholesale system with custom pricing.",
+    link: "https://beastbranding.com/",
+    problem: ["Complex B2B pricing"],
+    solution: ["Custom logic & shipping rules"],
+    impact: ["Improved UX"],
+  },
+  {
+    slug: "destira",
+    title: "Destira",
+    description: "ERP + analytics integrations.",
+    link: "https://destira.com/",
+    problem: ["Data sync issues"],
+    solution: ["Custom integrations"],
+    impact: ["Better reporting"],
+  },
+  {
+    slug: "givengo",
+    title: "GivenGo Hockey",
+    description: "SEO & marketing fixes.",
+    link: "https://givengohockey.com/",
+    problem: ["Google issues"],
+    solution: ["Schema + tracking"],
+    impact: ["Better visibility"],
+  },
+  {
+    slug: "mj-wholesale",
+    title: "MJ Wholesale",
+    description: "ERP-driven wholesale system.",
+    link: "https://mjwholesale.com/",
+    problem: ["Manual workflow"],
+    solution: ["Automation"],
+    impact: ["Efficiency"],
+  },
+  {
+    slug: "boobie",
+    title: "Boobie Superfoods",
+    description: "Full rebuild + subscriptions.",
+    link: "https://www.boobiesuperfoods.com/",
+    problem: ["Outdated store"],
+    solution: ["Rebuild"],
+    impact: ["Performance boost"],
+  },
+];
+
+export default projects;
